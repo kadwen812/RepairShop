@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Modal, Button, Row, Col, Form, FormSelect } from 'react-bootstrap';
+import { Modal, Button, Row, Col, Form } from 'react-bootstrap';
 
 export class AddInvoiceModal extends Component {
     constructor(props) {
